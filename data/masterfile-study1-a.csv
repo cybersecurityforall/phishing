@@ -1,0 +1,329 @@
+Simulation Name,PID,eventName,eventDateTime,isPartOfCompromise,order,scenario,infoRequested,emailSubject,MANIPULATION,Group,country,age_bin,read,EventDate,EventTime,EventDay,EventTimeBin,EventHour,EventTimeBin_OneHour
+DSPC3,97,MessageRead,2023-06-25 13:57:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-25,13:57:00,Sunday,Afternoon,13,13:00–13:59
+MSC3,97,MessageRead,2023-06-25 13:56:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-25,13:56:00,Sunday,Afternoon,13,13:00–13:59
+DSC2,97,MessageRead,2023-06-25 13:56:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-25,13:56:00,Sunday,Afternoon,13,13:00–13:59
+MSPC3,86,MessageDeleted,2023-06-10 00:23:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+MSPC1,86,MessageDeleted,2023-06-10 00:23:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+MSPC2,86,MessageDeleted,2023-06-10 00:23:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+MSC2,86,MessageDeleted,2023-06-10 00:23:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+MSC3,86,MessageDeleted,2023-06-10 00:23:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+MSC1,86,MessageDeleted,2023-06-10 00:23:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+DSC,86,MessageDeleted,2023-06-10 00:23:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+DSC2,86,MessageDeleted,2023-06-10 00:23:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+DSPC1,86,MessageDeleted,2023-06-10 00:23:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+DSPC2,86,MessageDeleted,2023-06-10 00:23:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-10,00:23:00,Saturday,Night,00,00:00–00:59
+DSC3,87,MessageReplied,2023-06-09 21:46:00,False,3,P09,X,Unfinished Payment,C * DS,A,MW Malawi,25 - 34,1,2023-06-09,21:46:00,Friday,Night,21,21:00–21:59
+MSPC3,87,MessageReplied,2023-06-09 21:44:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,MW Malawi,25 - 34,1,2023-06-09,21:44:00,Friday,Night,21,21:00–21:59
+DSC3,87,EmailLinkClicked,2023-06-09 21:27:00,False,3,P09,X,Unfinished Payment,C * DS,A,MW Malawi,25 - 34,1,2023-06-09,21:27:00,Friday,Night,21,21:00–21:59
+DSPC3,87,MessageRead,2023-06-09 21:27:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-09,21:27:00,Friday,Night,21,21:00–21:59
+DSC3,87,MessageRead,2023-06-09 21:26:00,False,3,P09,X,Unfinished Payment,C * DS,A,MW Malawi,25 - 34,1,2023-06-09,21:26:00,Friday,Night,21,21:00–21:59
+MSPC3,87,MessageRead,2023-06-09 21:24:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,MW Malawi,25 - 34,1,2023-06-09,21:24:00,Friday,Night,21,21:00–21:59
+MSPC3,86,MessageRead,2023-06-09 16:38:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:38:00,Friday,Afternoon,16,16:00–16:59
+MSC3,86,MessageRead,2023-06-09 16:38:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:38:00,Friday,Afternoon,16,16:00–16:59
+DSC3,86,MessageDeleted,2023-06-09 16:38:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:38:00,Friday,Afternoon,16,16:00–16:59
+DSPC3,86,MessageDeleted,2023-06-09 16:38:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:38:00,Friday,Afternoon,16,16:00–16:59
+DSPC2,86,MessageRead,2023-06-09 16:38:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:38:00,Friday,Afternoon,16,16:00–16:59
+DSC3,86,MessageRead,2023-06-09 16:37:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:37:00,Friday,Afternoon,16,16:00–16:59
+DSPC3,86,MessageRead,2023-06-09 16:37:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,16:37:00,Friday,Afternoon,16,16:00–16:59
+MSPC3,88,MessageRead,2023-06-09 15:00:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-09,15:00:00,Friday,Afternoon,15,15:00–15:59
+DSC3,88,MessageRead,2023-06-09 15:00:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-09,15:00:00,Friday,Afternoon,15,15:00–15:59
+MSC3,88,MessageRead,2023-06-09 14:59:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-09,14:59:00,Friday,Afternoon,14,14:00–14:59
+DSPC3,88,MessageRead,2023-06-09 14:59:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-09,14:59:00,Friday,Afternoon,14,14:00–14:59
+DSPC2,88,MessageRead,2023-06-09 14:59:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-09,14:59:00,Friday,Afternoon,14,14:00–14:59
+DSPC3,102,MessageRead,2023-06-09 14:30:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-09,14:30:00,Friday,Afternoon,14,14:00–14:59
+DSPC3,86,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,92,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,93,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,88,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,89,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,91,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,94,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,87,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,95,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,96,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,97,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,98,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,99,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,100,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,101,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,SS South Sudan,35 - 44,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,102,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,103,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,90,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,BY Burundi,25 - 34,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+DSPC3,104,SuccessfullyDeliveredEmail,2023-06-09 13:04:00,False,3,Y06,S,WSU Hiring,PC * DS ,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-09,13:04:00,Friday,Afternoon,13,13:00–13:59
+MSPC1,89,MessageRead,2023-06-08 21:39:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+MSC3,89,MessageRead,2023-06-08 21:39:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+MSC1,89,MessageRead,2023-06-08 21:39:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+DSC,89,MessageRead,2023-06-08 21:39:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+DSC2,89,MessageRead,2023-06-08 21:39:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+DSPC1,89,MessageRead,2023-06-08 21:39:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+DSPC2,89,MessageRead,2023-06-08 21:39:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:39:00,Thursday,Night,21,21:00–21:59
+MSPC3,89,MessageRead,2023-06-08 21:38:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:38:00,Thursday,Night,21,21:00–21:59
+DSC3,89,MessageRead,2023-06-08 21:38:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:38:00,Thursday,Night,21,21:00–21:59
+DSC3,86,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,92,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,93,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,88,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,89,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,91,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,94,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,87,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,MW Malawi,25 - 34,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,95,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,96,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,97,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,98,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,99,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,100,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,101,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,SS South Sudan,35 - 44,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,102,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,103,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,90,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,BY Burundi,25 - 34,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+DSC3,104,SuccessfullyDeliveredEmail,2023-06-08 21:13:00,False,3,P09,X,Unfinished Payment,C * DS,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-08,21:13:00,Thursday,Night,21,21:00–21:59
+MSPC3,90,MessageRead,2023-06-08 19:58:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,BY Burundi,25 - 34,1,2023-06-08,19:58:00,Thursday,Evening,19,19:00–19:59
+DSPC2,90,MessageRead,2023-06-08 19:58:00,False,2,Y08,S,Complete Application,PC * DS ,A,BY Burundi,25 - 34,1,2023-06-08,19:58:00,Thursday,Evening,19,19:00–19:59
+MSPC3,91,MessageRead,2023-06-07 23:39:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-07,23:39:00,Wednesday,Night,23,23:00–23:59
+MSPC3,86,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,92,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,93,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,88,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,89,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,91,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,94,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,87,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,MW Malawi,25 - 34,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,95,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,96,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,97,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,98,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,99,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,100,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,101,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,SS South Sudan,35 - 44,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,102,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,103,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,90,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,BY Burundi,25 - 34,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSPC3,104,SuccessfullyDeliveredEmail,2023-06-07 15:12:00,False,3,B03,A,OVERTIME BONUS,PC * MS,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-07,15:12:00,Wednesday,Afternoon,15,15:00–15:59
+MSC3,102,MessageDeleted,2023-06-06 22:55:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-06,22:55:00,Tuesday,Night,22,22:00–22:59
+MSC3,87,MessageReplied,2023-06-06 22:07:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,MW Malawi,25 - 34,1,2023-06-06,22:07:00,Tuesday,Night,22,22:00–22:59
+MSC3,87,MessageRead,2023-06-06 21:52:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,MW Malawi,25 - 34,1,2023-06-06,21:52:00,Tuesday,Night,21,21:00–21:59
+MSC3,86,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,92,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,93,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,88,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,89,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,91,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,94,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,87,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,MW Malawi,25 - 34,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,95,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,96,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,97,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,98,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,99,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,100,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,101,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,SS South Sudan,35 - 44,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,102,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,103,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,90,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,BY Burundi,25 - 34,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+MSC3,104,SuccessfullyDeliveredEmail,2023-06-06 13:46:00,False,3,G06,A,FINAL NOTICE: Rent,C * MS,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-06,13:46:00,Tuesday,Afternoon,13,13:00–13:59
+DSPC2,87,MessageReplied,2023-06-05 07:30:00,False,2,Y08,S,Complete Application,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-05,07:30:00,Monday,Morning,07,07:00–07:59
+DSPC2,87,MessageRead,2023-06-04 19:57:00,False,2,Y08,S,Complete Application,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-04,19:57:00,Sunday,Evening,19,19:00–19:59
+DSPC2,86,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,92,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,93,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,89,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,91,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,94,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,87,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,95,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,98,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,99,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,100,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,101,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,SS South Sudan,35 - 44,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,103,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,103,MessageRead,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,104,SuccessfullyDeliveredEmail,2023-06-04 19:15:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-04,19:15:00,Sunday,Evening,19,19:00–19:59
+DSPC2,88,SuccessfullyDeliveredEmail,2023-06-04 19:14:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-04,19:14:00,Sunday,Evening,19,19:00–19:59
+DSPC2,96,SuccessfullyDeliveredEmail,2023-06-04 19:14:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-04,19:14:00,Sunday,Evening,19,19:00–19:59
+DSPC2,97,SuccessfullyDeliveredEmail,2023-06-04 19:14:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-04,19:14:00,Sunday,Evening,19,19:00–19:59
+DSPC2,102,SuccessfullyDeliveredEmail,2023-06-04 19:14:00,False,2,Y08,S,Complete Application,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-04,19:14:00,Sunday,Evening,19,19:00–19:59
+DSPC2,90,SuccessfullyDeliveredEmail,2023-06-04 19:14:00,False,2,Y08,S,Complete Application,PC * DS ,A,BY Burundi,25 - 34,1,2023-06-04,19:14:00,Sunday,Evening,19,19:00–19:59
+MSPC2,86,MessageRead,2023-06-04 06:13:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:13:00,Sunday,Morning,06,06:00–06:59
+MSC2,86,MessageRead,2023-06-04 06:13:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:13:00,Sunday,Morning,06,06:00–06:59
+DSC2,86,MessageRead,2023-06-04 06:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:13:00,Sunday,Morning,06,06:00–06:59
+MSPC1,86,MessageRead,2023-06-04 06:12:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:12:00,Sunday,Morning,06,06:00–06:59
+DSC,86,MessageRead,2023-06-04 06:12:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:12:00,Sunday,Morning,06,06:00–06:59
+DSPC1,86,MessageRead,2023-06-04 06:12:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:12:00,Sunday,Morning,06,06:00–06:59
+MSC1,86,MessageRead,2023-06-04 06:11:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-04,06:11:00,Sunday,Morning,06,06:00–06:59
+MSC2,97,MessageRead,2023-06-04 01:46:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-04,01:46:00,Sunday,Night,01,01:00–01:59
+DSC,97,MessageRead,2023-06-04 01:45:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-04,01:45:00,Sunday,Night,01,01:00–01:59
+DSC2,87,MessageReplied,2023-06-04 00:49:00,False,2,P10,X,Lost Package,C * DS,A,MW Malawi,25 - 34,1,2023-06-04,00:49:00,Sunday,Night,00,00:00–00:59
+MSPC2,87,MessageReplied,2023-06-04 00:36:00,False,2,B10,B,HIRING: Update,PC * MS,A,MW Malawi,25 - 34,1,2023-06-04,00:36:00,Sunday,Night,00,00:00–00:59
+DSC2,87,EmailLinkClicked,2023-06-04 00:24:00,False,2,P10,X,Lost Package,C * DS,A,MW Malawi,25 - 34,1,2023-06-04,00:24:00,Sunday,Night,00,00:00–00:59
+DSC2,87,MessageRead,2023-06-04 00:23:00,False,2,P10,X,Lost Package,C * DS,A,MW Malawi,25 - 34,1,2023-06-04,00:23:00,Sunday,Night,00,00:00–00:59
+DSC2,88,MessageRead,2023-06-03 23:55:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-03,23:55:00,Saturday,Night,23,23:00–23:59
+DSC2,92,MessageRead,2023-06-03 21:07:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-03,21:07:00,Saturday,Night,21,21:00–21:59
+DSC2,86,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,92,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,89,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,91,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,94,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,87,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,MW Malawi,25 - 34,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,95,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,98,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,99,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,100,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,101,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,SS South Sudan,35 - 44,1,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,103,SuccessfullyDeliveredEmail,2023-06-03 20:14:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-03,20:14:00,Saturday,Evening,20,20:00–20:59
+DSC2,93,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+DSC2,88,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+DSC2,96,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+DSC2,97,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+DSC2,102,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+DSC2,90,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,BY Burundi,25 - 34,1,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+DSC2,104,SuccessfullyDeliveredEmail,2023-06-03 20:13:00,False,2,P10,X,Lost Package,C * DS,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-03,20:13:00,Saturday,Evening,20,20:00–20:59
+MSPC2,87,MessageRead,2023-06-03 05:01:00,False,2,B10,B,HIRING: Update,PC * MS,A,MW Malawi,25 - 34,1,2023-06-03,05:01:00,Saturday,Morning,05,05:00–05:59
+MSPC2,93,MessageRead,2023-06-02 17:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-02,17:07:00,Friday,Evening,17,17:00–17:59
+MSPC2,97,MessageRead,2023-06-02 15:03:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-02,15:03:00,Friday,Afternoon,15,15:00–15:59
+MSPC2,88,MessageRead,2023-06-02 13:34:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-02,13:34:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,102,MessageRead,2023-06-02 13:32:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-02,13:32:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,90,MessageRead,2023-06-02 13:17:00,False,2,B10,B,HIRING: Update,PC * MS,A,BY Burundi,25 - 34,1,2023-06-02,13:17:00,Friday,Afternoon,13,13:00–13:59
+MSC2,89,MessageRead,2023-06-02 13:09:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-02,13:09:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,89,MessageRead,2023-06-02 13:08:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-02,13:08:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,86,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,92,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,93,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,88,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,89,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,91,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,94,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,87,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,MW Malawi,25 - 34,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,95,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,96,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,97,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,98,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,99,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,100,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,101,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,SS South Sudan,35 - 44,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,102,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,103,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,90,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,BY Burundi,25 - 34,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSPC2,104,SuccessfullyDeliveredEmail,2023-06-02 13:07:00,False,2,B10,B,HIRING: Update,PC * MS,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-02,13:07:00,Friday,Afternoon,13,13:00–13:59
+MSC2,90,MessageRead,2023-06-02 11:21:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,BY Burundi,25 - 34,1,2023-06-02,11:21:00,Friday,Morning,11,11:00–11:59
+MSC1,90,MessageRead,2023-06-02 11:21:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,BY Burundi,25 - 34,1,2023-06-02,11:21:00,Friday,Morning,11,11:00–11:59
+DSPC1,90,MessageRead,2023-06-02 11:20:00,False,1,Y03,S,New Job Posting,PC * DS ,A,BY Burundi,25 - 34,1,2023-06-02,11:20:00,Friday,Morning,11,11:00–11:59
+MSC2,87,MessageReplied,2023-06-01 16:50:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,MW Malawi,25 - 34,1,2023-06-01,16:50:00,Thursday,Afternoon,16,16:00–16:59
+MSC2,87,MessageRead,2023-06-01 16:43:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,MW Malawi,25 - 34,1,2023-06-01,16:43:00,Thursday,Afternoon,16,16:00–16:59
+DSC,88,MessageRead,2023-06-01 16:12:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-01,16:12:00,Thursday,Afternoon,16,16:00–16:59
+DSPC1,88,MessageRead,2023-06-01 16:12:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-01,16:12:00,Thursday,Afternoon,16,16:00–16:59
+MSC2,88,MessageRead,2023-06-01 16:11:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-01,16:11:00,Thursday,Afternoon,16,16:00–16:59
+MSC2,86,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,92,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,93,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,88,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,89,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,91,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,94,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,65 - 74,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,87,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,MW Malawi,25 - 34,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,95,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,96,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,97,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,98,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,99,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,100,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,3,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,101,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,SS South Sudan,35 - 44,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,102,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,103,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,90,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,BY Burundi,25 - 34,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSC2,104,SuccessfullyDeliveredEmail,2023-06-01 15:10:00,False,2,G03,B,CLAIM YOUR SCHOLARSHIP,C * MS,A,CG Democratic Republic of Congo,18 - 24,1,2023-06-01,15:10:00,Thursday,Afternoon,15,15:00–15:59
+MSPC1,90,MessageRead,2023-06-01 14:47:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,BY Burundi,25 - 34,1,2023-06-01,14:47:00,Thursday,Afternoon,14,14:00–14:59
+DSC,90,MessageRead,2023-06-01 14:47:00,False,1,P03,X,New Account Activity,C * DS,A,BY Burundi,25 - 34,1,2023-06-01,14:47:00,Thursday,Afternoon,14,14:00–14:59
+DSPC1,87,MessageReplied,2023-06-01 13:57:00,False,1,Y03,S,New Job Posting,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-01,13:57:00,Thursday,Afternoon,13,13:00–13:59
+DSPC1,87,EmailLinkClicked,2023-06-01 13:44:00,False,1,Y03,S,New Job Posting,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-01,13:44:00,Thursday,Afternoon,13,13:00–13:59
+DSPC1,87,MessageRead,2023-06-01 13:43:00,False,1,Y03,S,New Job Posting,PC * DS ,A,MW Malawi,25 - 34,1,2023-06-01,13:43:00,Thursday,Afternoon,13,13:00–13:59
+DSPC1,91,MessageRead,2023-05-31 20:42:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,3,2023-05-31,20:42:00,Wednesday,Evening,20,20:00–20:59
+DSC,103,MessageRead,2023-05-31 17:27:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-31,17:27:00,Wednesday,Evening,17,17:00–17:59
+DSPC1,103,MessageRead,2023-05-31 15:00:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-31,15:00:00,Wednesday,Afternoon,15,15:00–15:59
+DSPC1,86,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,92,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,93,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,2,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,88,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,2,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,89,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,91,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,3,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,94,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,65 - 74,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,87,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,MW Malawi,25 - 34,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,95,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,96,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,97,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,98,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,99,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,100,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,3,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,101,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,SS South Sudan,35 - 44,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,102,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,103,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,90,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,BY Burundi,25 - 34,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSPC1,104,SuccessfullyDeliveredEmail,2023-05-31 14:13:00,False,1,Y03,S,New Job Posting,PC * DS ,A,CG Democratic Republic of Congo,18 - 24,1,2023-05-31,14:13:00,Wednesday,Afternoon,14,14:00–14:59
+DSC,87,MessageRead,2023-05-30 02:47:00,False,1,P03,X,New Account Activity,C * DS,A,MW Malawi,25 - 34,1,2023-05-30,02:47:00,Tuesday,Night,02,02:00–02:59
+MSPC1,87,MessageReplied,2023-05-30 02:42:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,MW Malawi,25 - 34,1,2023-05-30,02:42:00,Tuesday,Night,02,02:00–02:59
+MSPC1,87,MessageRead,2023-05-30 01:25:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,MW Malawi,25 - 34,1,2023-05-30,01:25:00,Tuesday,Night,01,01:00–01:59
+DSC,93,MessageRead,2023-05-29 23:12:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,2,2023-05-29,23:12:00,Monday,Night,23,23:00–23:59
+DSC,89,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,94,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,65 - 74,1,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,87,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,MW Malawi,25 - 34,1,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,95,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,99,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,100,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,3,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,101,SuccessfullyDeliveredEmail,2023-05-29 16:48:00,False,1,P03,X,New Account Activity,C * DS,A,SS South Sudan,35 - 44,1,2023-05-29,16:48:00,Monday,Afternoon,16,16:00–16:59
+DSC,86,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,92,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,93,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,2,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,88,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,2,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,91,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,65 - 74,3,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,96,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,97,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,98,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,102,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,103,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,90,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,BY Burundi,25 - 34,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+DSC,104,SuccessfullyDeliveredEmail,2023-05-29 16:47:00,False,1,P03,X,New Account Activity,C * DS,A,CG Democratic Republic of Congo,18 - 24,1,2023-05-29,16:47:00,Monday,Afternoon,16,16:00–16:59
+MSPC1,103,MessageRead,2023-05-28 16:58:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-28,16:58:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,86,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,92,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,93,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,88,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,88,MessageRead,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,89,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,91,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,94,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,65 - 74,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,87,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,MW Malawi,25 - 34,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,95,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,96,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,97,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,98,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,99,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,100,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,35 - 44,3,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,101,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,SS South Sudan,35 - 44,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,102,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,103,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,90,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,BY Burundi,25 - 34,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSPC1,104,SuccessfullyDeliveredEmail,2023-05-28 16:13:00,False,1,B07,S,HIRING UPDATE,PC * MS,A,CG Democratic Republic of Congo,18 - 24,1,2023-05-28,16:13:00,Sunday,Afternoon,16,16:00–16:59
+MSC1,87,MessageReplied,2023-05-28 03:38:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,MW Malawi,25 - 34,1,2023-05-28,03:38:00,Sunday,Night,03,03:00–03:59
+MSC1,87,EmailLinkClicked,2023-05-28 03:31:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,MW Malawi,25 - 34,1,2023-05-28,03:31:00,Sunday,Night,03,03:00–03:59
+MSC1,87,MessageRead,2023-05-28 03:31:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,MW Malawi,25 - 34,1,2023-05-28,03:31:00,Sunday,Night,03,03:00–03:59
+MSC1,88,MessageRead,2023-05-27 21:22:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-05-27,21:22:00,Saturday,Night,21,21:00–21:59
+MSC1,103,MessageRead,2023-05-27 15:20:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-27,15:20:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,86,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,92,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,93,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,35 - 44,2,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,88,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,2,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,89,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,91,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,65 - 74,3,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,94,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,65 - 74,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,87,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,MW Malawi,25 - 34,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,95,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,96,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,45 - 54,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,97,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,98,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,99,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,100,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,35 - 44,3,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,101,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,SS South Sudan,35 - 44,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,102,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,35 - 44,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,103,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,25 - 34,3,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,90,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,BY Burundi,25 - 34,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59
+MSC1,104,SuccessfullyDeliveredEmail,2023-05-27 15:12:00,False,1,G07,B,UPDATE: Your Award,C * MS,A,CG Democratic Republic of Congo,18 - 24,1,2023-05-27,15:12:00,Saturday,Afternoon,15,15:00–15:59

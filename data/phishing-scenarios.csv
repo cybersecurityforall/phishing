@@ -1,0 +1,49 @@
+SCENARIO,SCENARIO_GROUP,CREDENTIAL,EMAIL_SUBJECT,BODY_GREETING,BODY_MAIN,FROM_NAME,MANIPULATION
+B01 : RESUME: Update Needed,B01,S,RESUME: Update Needed,"Hello user,",Employers are taking notice of your resume. Reply with your Social Security number immediately for hiring.,Alain Kaunda,PC * MS
+B02 : ACT NOW: Job Application,B02,A,ACT NOW: Job Application,"Hello,","You're almost done with your job application. To complete it, kindly enter your bank account details here.",Albert Lokuli,PC * MS
+B03 : OVERTIME BONUS,B03,A,OVERTIME BONUS,"Hello,",Your pay has increased from your overtime last week. Kindly provide us with the details of your bank account now.,Antoinette Lenge,PC * MS
+B04 : JOB OFFER,B04,S,JOB OFFER,"Hello user,","Companies are reaching out regarding a possible job offer. To be hired, reply with your Social Security number.",Simon Kibawa,PC * MS
+B05 : CLAIM YOUR BENEFITS,B05,B&S,CLAIM YOUR BENEFITS,"Hello employee,",We need more details before we can offer you additional benefits. Enter your birthdate and Social Security number.,Pierre Kyungu,PC * MS
+B06 : HIRING: Information Needed,B06,A,HIRING: Information Needed,"Hello,",Best wishes on your new role. Send a reply here with the details of your bank account to get your first paycheck.,Paul Thamba,PC * MS
+B07 : HIRING UPDATE,B07,S,HIRING UPDATE,"Hello,","Wichita State University is almost done with your hiring. To confirm now, reply with your Social Security number.",Augustine Pezo,PC * MS
+B08 : UPDATE NEEDED: Benefits,B08,S,UPDATE NEEDED: Benefits,"Hello,",Your promotion is presently being processed but is unfinished. Provide your Social Security number to advance it.,Bernard Zabsu,PC * MS
+B09 : CONGRATULATIONS: Promotion,B09,A,CONGRATULATIONS: Promotion,"Hello employee,","Congratulations, we'd like to extend a promotion offer to you. Act soon -- respond with your bank account details.",Dieu Mugisho,PC * MS
+B10 : HIRING: Update,B10,B,HIRING: Update,"Hello applicant,",Wichita State University requires additional information before you are hired. Enter your birthdate now.,Fiston Lukwesa,PC * MS
+B11 : UPDATE INFORMATION,B11,B,UPDATE INFORMATION,"Hello,",Your date of birth was not included in your job application. Kindly respond with it before Saturday's deadline.,Pauline Kama,PC * MS
+B12 : CONGRATULATIONS: Benefits,B12,B,CONGRATULATIONS: Benefits,"Hello,",Well done on earning new healthcare benefits at work. Enter your birthdate in the reply box to quickly complete.,Jacqueline Tshiala,PC * MS
+G01 : Free Rent: CLAIM NOW,G01,A,Free Rent: CLAIM NOW,"Hello applicant,",WSU Housing is giving away free rent for one month. Don't lose out -- reply with your bank account details first.,Annie Kabinda,C * MS
+G02 : APPLY: Healthcare,G02,B,APPLY: Healthcare,"Hello client,",WSU Health Services is offering affordable health insurance. Please respond soon with your birthdate to be considered.,Antoinette Kayinda,C * MS
+G03 : CLAIM YOUR SCHOLARSHIP,G03,B,CLAIM YOUR SCHOLARSHIP,"Hello,",Wichita State University is offering a new scholarship for tuition. Enter your birthdate to be the first to claim it.,Augustin Mwad,C * MS
+G04 : APPLY: Free Smartphone,G04,S,APPLY: Free Smartphone,"Hello customer,",WSU is giving away brand new smartphones. Respond here with your Social Security number before they are gone.,Michel Kapenda,C * MS
+G05 : CAR OFFER -- Reply First,G05,S,CAR OFFER -- Reply First,"Hello,",WSU is giving the first applicant a Honda automobile. Please apply now with your Social Security number.,Esther Kutemba,C * MS
+G06 : FINAL NOTICE: Rent,G06,A,FINAL NOTICE: Rent,"Hello tenant,","This month's rent payment is canceled. To receive a refund, reply here with the details of your bank account.",Dieu Salima,C * MS
+G07 : UPDATE: Your Award,G07,B,UPDATE: Your Award,"Hello customer,",The competition award you won is on its way to the WSU Post Office. Enter your birthdate in response to arrange for pickup.,Emmanuel Musuamba,C * MS
+G08 : PAYMENT DUE,G08,B,PAYMENT DUE,"Hello,",WSU Dining is providing free meals for a month. Act quickly and respond with your birthdate to make a claim.,Jacqueline Kanam,C * MS
+G09 : ACT NOW: Housing,G09,B,ACT NOW: Housing,"Hello applicant,",Your application for WSU Housing Services is incomplete. Submit your date of birth here by the end of the day.,Marcel Kalasa,C * MS
+G10 : WSU GIVEAWAY,G10,S,WSU GIVEAWAY,"Hello shopper,",WSU is giving away a $500 gift card to the first respondent. Apply now with your Social Security Number.,Mado Mavungu,C * MS
+G11 : CHECK VISA STATUS,G11,B,CHECK VISA STATUS,"Hello,","WSU was notified your VISA with US Immigration Services was delayed. To expedite it, reply with your birthdate.",Veronique Kasanga,C * MS
+G12 : FREE TRANSPORTATION,G12,B,FREE TRANSPORTATION,"Hello customer,",WSU is giving away two months of free transportation. Claim this limited offer by sending your date of birth.,Tresor Moninga,C * MS
+P01 : Debt Outcome,P01,X,Debt Outcome,"Hello,","According to WSU's records, you may be eligible for debt forgiveness. To find out if you qualify, click this:",Alain Mvumbi,C * DS
+P02 : Payment Due,P02,X,Payment Due,"Hello,","WSU is requesting payment of $342.11 for student bills last month. For a copy of your bill, click this link:",Albert Ndayi,C * DS
+P03 : New Account Activity,P03,X,New Account Activity,"Hello,","Wichita State University has detected an unusual login in Washington, DC. To modify your password, click this link:",Annie Mabondo,C * DS
+P04 : Electricity Bill,P04,X,Electricity Bill,"Hello,","WSU Housing is disconnecting tenants' electricity who have not paid. To find out if you will be impacted, click this:",Justin Kabwita,C * DS
+P05 : Credit Card Bill,P05,X,Credit Card Bill,"Hello,","Your current Shocker credit card balance of $433 is due this month. To make a bill payment, click this link:",Justin Kimba,C * DS
+P06 : Tuition Update,P06,X,Tuition Update,"Hello,",Records from Wichita State University indicate that you have unpaid tuition. Enter the URL to view your debt:,Helene Ekomba,C * DS
+P07 : Health Services Balance,P07,X,Health Services Balance,"Hello,","Wichita State Health Services requires payment for the services you recently received. To view the balance, click the link:",Celestin Fatuma,C * DS
+P08 : Credit Card Activity,P08,X,Credit Card Activity,"Hello,","WSU has observed activity in Boston, Massachusetts on your credit card.  If this isn't you, click the link:",Michel Nzambi,C * DS
+P09 : Unfinished Payment,P09,X,Unfinished Payment,"Hello,","WSU shows an outstanding payment on your account from last month. To see how much you owe, click this link:",Julienne Kashala,C * DS
+P10 : Lost Package,P10,X,Lost Package,"Hello,","The Wichita State Police Department is attempting to find the item you lost. To learn more, click the claim number:",Louise Ndembe,C * DS
+P11 : Childcare Update,P11,X,Childcare Update,"Hello,","Childcare payment is required at WSU's Child Development Center. To view the balance of the account, click here:",Therese Zaina,C * DS
+P12 : Shocker Dining Payment,P12,X,Shocker Dining Payment,"Hello,","Shocker Dining records shows that you owe the university $200.14. To view your payment options, click this link:",Pascal Kabunda,C * DS
+Y01 : Insurance Offer,Y01,B,Insurance Offer,"Hello there,","Wichita State University extends its health insurance offer to you. To send your bank routing number, click this link:",Alphonsine Shangu,PC * DS 
+Y02 : Verify your Bank Account,Y02,A,Verify your Bank Account,"Hello customer,","WSU is attempting to verify that your bank account information is accurate. To re-enter information, click this link:",Anne Maombi,PC * DS 
+Y03 : New Job Posting,Y03,S,New Job Posting,"Hello applicant,","You have been hired by WSU for a brand-new position. To submit your Social Security number for employment, click this link:",Martin Amba,PC * DS 
+Y04 : WSU Job Offer,Y04,P,WSU Job Offer,"Hello,","WSU is attempting to handle payment for the review of your resume. To provide payment information, click this link:",Julienne Ndembe,PC * DS 
+Y05 : Bank Account Information,Y05,A,Bank Account Information,"Hello customer,","Your bank account information needs to be updated because it is outdated. To update information, click this link:",Bernadette Shamavu,PC * DS 
+Y06 : WSU Hiring,Y06,S,WSU Hiring,"Hello employee,","WSU is hiring you for a new managerial role. To create an account using your Social Security number, click this link:",Francine Woto,PC * DS 
+Y07 : Expired Account Information,Y07,A,Expired Account Information,"Hello,","WSU records show that your payment details are no longer valid. To update the details for your bank account, click this link:",Jacques Mbiyava,PC * DS 
+Y08 : Complete Application,Y08,S,Complete Application,"Hello,",You did not enter your Social Security Number in your WSU debt relief application. Click here to submit it:,Rose Nganga,PC * DS 
+Y09 : WSU Hiring,Y09,A,WSU Hiring,"Hello,","WSU Human Resources is extending to you a payment plan. To accept and verify your bank details, click this link:",Marceline Muke,PC * DS 
+Y10 : Benefits at WSU,Y10,A,Benefits at WSU,"Hello customer,",Your payments to WSU have been reduced from your total balance. Click here to confirm with your bank account information:,Marceline Mulongo,PC * DS 
+Y11 : WSU Job Notice,Y11,P,WSU Job Notice,"Hello employee,",Wichita State University overpaid you for your new employee role. Use this link to send money to WSU:,Monique Illonga,PC * DS 
+Y12 : Update Your Information,Y12,B,Update Your Information,"Hello,","Records from WSU reveal that your bank account is inaccurate. To change your routing number, click this link:",Veronique Kalombe,PC * DS 
